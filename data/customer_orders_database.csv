@@ -1,0 +1,101 @@
+order id,customer name,contact,product,order date,shipping address,status
+ORD-2026-1001,Christopher Brown,+1-225-859-5506,Velo Pro Mechanical Keyboard,2026-06-29,"2386 Oak Ave, Dallas, TX 21395",Delivered
+ORD-2026-1002,Mary Smith,+1-295-323-4811,SoundSphere Bluetooth Speaker,2026-08-17,"534 Pine Rd, Houston, TX 95181",Delivered
+ORD-2026-1003,Susan Davis,+1-659-703-5557,Aura Wireless Noise-Canceling Headphones,2026-09-06,"2715 Park Ave, Philadelphia, PA 46421",Shipped
+ORD-2026-1004,Matthew Hernandez,+1-304-194-7224,Apex Ergonomic Mesh Office Chair,2026-07-16,"5735 Sunset Blvd, Phoenix, AZ 15695",Delivered
+ORD-2026-1005,Sarah Brown,+1-587-180-5803,OmniCharge 20000mAh Power Bank,2026-09-19,"6025 Sunset Blvd, Houston, TX 19116",Processing
+ORD-2026-1006,Linda Martinez,+1-281-975-4814,Apex Ergonomic Mesh Office Chair,2026-07-19,"4654 Elm St, Philadelphia, PA 31319",Shipped
+ORD-2026-1007,Michael Rodriguez,+1-918-799-2169,OmniCharge 20000mAh Power Bank,2026-08-21,"2903 Pine Rd, Houston, TX 31417",Delivered
+ORD-2026-1008,William Moore,+1-424-801-6313,Aura Wireless Noise-Canceling Headphones,2026-06-30,"625 Lake View Dr, San Antonio, TX 45093",Processing
+ORD-2026-1009,Sandra Jackson,+1-935-422-4483,Zenith 4K Ultra-HD Webcam,2026-07-21,"7617 Maple Rd, Phoenix, AZ 28301",Shipped
+ORD-2026-1010,Sarah Moore,+1-469-864-8019,OmniCharge 20000mAh Power Bank,2026-07-22,"6030 Cedar Ln, Chicago, IL 76784",Delivered
+ORD-2026-1011,Matthew Johnson,+1-312-256-3621,PulseFit Fitness Tracker Watch,2026-08-16,"1140 Park Ave, San Antonio, TX 88104",Refunded
+ORD-2026-1012,Thomas Rodriguez,+1-766-981-1188,Apex Ergonomic Mesh Office Chair,2026-08-27,"8897 Washington Blvd, Philadelphia, PA 24621",Shipped
+ORD-2026-1013,Jennifer Anderson,+1-203-839-5315,SoundSphere Bluetooth Speaker,2026-09-06,"3027 Pine Rd, Los Angeles, CA 91959",Shipped
+ORD-2026-1014,Christopher Taylor,+1-823-303-3504,HydraTech Smart Water Bottle,2026-09-06,"2746 Pine Rd, Dallas, TX 10074",Delivered
+ORD-2026-1015,Jessica Smith,+1-314-471-6038,Velo Pro Mechanical Keyboard,2026-06-08,"4046 Sunset Blvd, Los Angeles, CA 21226",Delivered
+ORD-2026-1016,Anthony Williams,+1-978-645-3060,Lumena Smart Desk Lamp,2026-08-24,"7887 Pine Rd, Chicago, IL 44741",Delivered
+ORD-2026-1017,Karen Wilson,+1-416-652-4295,UltraClean Robotic Vacuum Cleaner,2026-07-22,"6218 Elm St, Dallas, TX 69177",Processing
+ORD-2026-1018,Linda Williams,+1-546-121-4770,OmniCharge 20000mAh Power Bank,2026-06-29,"217 Oak Ave, New York, NY 40007",Processing
+ORD-2026-1019,Mary Hernandez,+1-272-626-4899,UltraClean Robotic Vacuum Cleaner,2026-08-25,"8053 Cedar Ln, Dallas, TX 27342",Delivered
+ORD-2026-1020,Donald Jackson,+1-790-584-4981,Zenith 4K Ultra-HD Webcam,2026-09-12,"6769 Cedar Ln, Los Angeles, CA 22704",Delivered
+ORD-2026-1021,Barbara Wilson,+1-620-578-1887,Apex Ergonomic Mesh Office Chair,2026-06-08,"6696 Lake View Dr, Los Angeles, CA 42591",Shipped
+ORD-2026-1022,Sarah Anderson,+1-343-532-4006,UltraClean Robotic Vacuum Cleaner,2026-07-30,"4192 Oak Ave, San Diego, CA 82132",Processing
+ORD-2026-1023,Christopher Moore,+1-215-195-4872,Lumena Smart Desk Lamp,2026-07-23,"8056 Elm St, Houston, TX 62565",Returned
+ORD-2026-1024,Jennifer Gonzalez,+1-202-499-5345,Zenith 4K Ultra-HD Webcam,2026-07-07,"7030 Pine Rd, San Diego, CA 30289",Shipped
+ORD-2026-1025,Michael Johnson,+1-793-853-9883,Aura Wireless Noise-Canceling Headphones,2026-09-04,"5238 Main St, New York, NY 86569",Delivered
+ORD-2026-1026,Sandra Taylor,+1-361-158-9320,Apex Ergonomic Mesh Office Chair,2026-09-17,"3144 Oak Ave, Austin, TX 18907",Delivered
+ORD-2026-1027,Linda Gonzalez,+1-322-683-5033,OmniCharge 20000mAh Power Bank,2026-08-16,"751 Sunset Blvd, Los Angeles, CA 64948",Delivered
+ORD-2026-1028,Charles Taylor,+1-523-367-4346,HydraTech Smart Water Bottle,2026-07-01,"4451 Park Ave, Chicago, IL 98039",Delivered
+ORD-2026-1029,Joseph Hernandez,+1-969-174-1152,Zenith 4K Ultra-HD Webcam,2026-08-19,"9324 Oak Ave, Los Angeles, CA 80468",Shipped
+ORD-2026-1030,William Jones,+1-557-170-5002,HydraTech Smart Water Bottle,2026-07-07,"2684 Elm St, Dallas, TX 49651",Delivered
+ORD-2026-1031,Margaret Taylor,+1-208-783-5905,Apex Ergonomic Mesh Office Chair,2026-06-18,"4433 Oak Ave, Los Angeles, CA 82512",Shipped
+ORD-2026-1032,Elizabeth Martin,+1-415-834-6617,Velo Pro Mechanical Keyboard,2026-08-27,"4425 Pine Rd, San Diego, CA 42914",Returned
+ORD-2026-1033,Betty Johnson,+1-294-749-7939,UltraClean Robotic Vacuum Cleaner,2026-06-06,"158 Lake View Dr, Chicago, IL 93507",Refunded
+ORD-2026-1034,Jennifer Anderson,+1-764-822-8007,SoundSphere Bluetooth Speaker,2026-06-02,"1932 Oak Ave, Chicago, IL 81511",Processing
+ORD-2026-1035,Barbara Jackson,+1-765-251-8041,Lumena Smart Desk Lamp,2026-06-06,"5150 Lake View Dr, New York, NY 56898",Shipped
+ORD-2026-1036,Linda Brown,+1-562-898-7658,OmniCharge 20000mAh Power Bank,2026-09-04,"2632 Cedar Ln, Chicago, IL 33206",Cancelled
+ORD-2026-1037,James Garcia,+1-954-440-7745,Velo Pro Mechanical Keyboard,2026-07-05,"2708 Oak Ave, San Antonio, TX 15075",Cancelled
+ORD-2026-1038,Linda Miller,+1-671-458-6000,Velo Pro Mechanical Keyboard,2026-06-29,"487 Cedar Ln, San Antonio, TX 53025",Shipped
+ORD-2026-1039,John Rodriguez,+1-559-756-9346,PulseFit Fitness Tracker Watch,2026-08-26,"8885 Lake View Dr, New York, NY 25118",Cancelled
+ORD-2026-1040,William Garcia,+1-794-371-1626,Apex Ergonomic Mesh Office Chair,2026-08-16,"7219 Lake View Dr, Philadelphia, PA 67199",Delivered
+ORD-2026-1041,Thomas Brown,+1-594-690-4114,UltraClean Robotic Vacuum Cleaner,2026-06-06,"7244 Main St, Dallas, TX 80575",Delivered
+ORD-2026-1042,Lisa Miller,+1-572-541-2146,HydraTech Smart Water Bottle,2026-08-19,"5243 Oak Ave, Phoenix, AZ 76469",Shipped
+ORD-2026-1043,Susan Hernandez,+1-612-813-5844,SoundSphere Bluetooth Speaker,2026-06-17,"3243 Park Ave, San Antonio, TX 98777",Delivered
+ORD-2026-1044,Jennifer Martin,+1-782-408-7653,SoundSphere Bluetooth Speaker,2026-09-15,"106 Washington Blvd, Phoenix, AZ 37549",Delivered
+ORD-2026-1045,Charles Martin,+1-870-429-8618,Zenith 4K Ultra-HD Webcam,2026-07-27,"3601 Pine Rd, San Diego, CA 32241",Delivered
+ORD-2026-1046,Elizabeth Taylor,+1-879-748-6491,Apex Ergonomic Mesh Office Chair,2026-09-13,"3948 Washington Blvd, Houston, TX 36100",Processing
+ORD-2026-1047,Mary Davis,+1-686-725-2193,Zenith 4K Ultra-HD Webcam,2026-07-24,"9531 Cedar Ln, San Antonio, TX 74799",Shipped
+ORD-2026-1048,Robert Smith,+1-968-981-2746,PulseFit Fitness Tracker Watch,2026-06-29,"2981 Pine Rd, San Diego, CA 16582",Delivered
+ORD-2026-1049,Sandra Brown,+1-667-236-8612,SoundSphere Bluetooth Speaker,2026-08-11,"9855 Lake View Dr, San Diego, CA 90301",Delivered
+ORD-2026-1050,Donald Taylor,+1-636-950-9976,Zenith 4K Ultra-HD Webcam,2026-06-21,"7877 Elm St, Phoenix, AZ 42406",Delivered
+ORD-2026-1051,William Taylor,+1-696-741-4919,UltraClean Robotic Vacuum Cleaner,2026-07-27,"1369 Washington Blvd, Houston, TX 45614",Shipped
+ORD-2026-1052,Donald Moore,+1-282-241-3471,Velo Pro Mechanical Keyboard,2026-07-20,"2603 Cedar Ln, Los Angeles, CA 64377",Delivered
+ORD-2026-1053,Sarah Anderson,+1-625-163-4388,PulseFit Fitness Tracker Watch,2026-07-20,"9669 Main St, Austin, TX 59857",Delivered
+ORD-2026-1054,Barbara Martinez,+1-971-499-7865,SoundSphere Bluetooth Speaker,2026-09-04,"9047 Sunset Blvd, Houston, TX 73993",Shipped
+ORD-2026-1055,Susan Thomas,+1-229-498-6507,PulseFit Fitness Tracker Watch,2026-09-01,"2804 Elm St, Chicago, IL 91560",Delivered
+ORD-2026-1056,Sandra Gonzalez,+1-806-677-1444,Apex Ergonomic Mesh Office Chair,2026-08-22,"7122 Maple Rd, San Diego, CA 33819",Processing
+ORD-2026-1057,Richard Hernandez,+1-416-565-6355,HydraTech Smart Water Bottle,2026-09-06,"6311 Washington Blvd, San Antonio, TX 43065",Delivered
+ORD-2026-1058,Jessica Smith,+1-967-652-1853,HydraTech Smart Water Bottle,2026-06-29,"1224 Main St, New York, NY 42411",Shipped
+ORD-2026-1059,James Martin,+1-356-344-3068,Zenith 4K Ultra-HD Webcam,2026-08-25,"1974 Sunset Blvd, Houston, TX 70952",Delivered
+ORD-2026-1060,Matthew Lopez,+1-371-720-2876,Lumena Smart Desk Lamp,2026-07-10,"1871 Sunset Blvd, New York, NY 50888",Delivered
+ORD-2026-1061,Sandra Gonzalez,+1-606-832-4249,Apex Ergonomic Mesh Office Chair,2026-08-15,"4078 Oak Ave, Phoenix, AZ 99687",Delivered
+ORD-2026-1062,Patricia Jackson,+1-242-455-9728,PulseFit Fitness Tracker Watch,2026-08-24,"6171 Oak Ave, Dallas, TX 94874",Shipped
+ORD-2026-1063,Betty Wilson,+1-701-208-8102,HydraTech Smart Water Bottle,2026-08-21,"7632 Maple Rd, San Antonio, TX 33086",Delivered
+ORD-2026-1064,Christopher Rodriguez,+1-830-927-9817,Zenith 4K Ultra-HD Webcam,2026-07-30,"7236 Sunset Blvd, Phoenix, AZ 52245",Cancelled
+ORD-2026-1065,Anthony Williams,+1-485-561-4995,Zenith 4K Ultra-HD Webcam,2026-08-12,"6309 Lake View Dr, New York, NY 74789",Cancelled
+ORD-2026-1066,Jennifer Thomas,+1-417-463-5232,HydraTech Smart Water Bottle,2026-07-06,"9867 Washington Blvd, Dallas, TX 11330",Delivered
+ORD-2026-1067,Michael Williams,+1-447-837-7658,Zenith 4K Ultra-HD Webcam,2026-08-11,"4037 Elm St, San Diego, CA 68743",Delivered
+ORD-2026-1068,John Martinez,+1-426-514-4986,UltraClean Robotic Vacuum Cleaner,2026-08-24,"9628 Lake View Dr, San Diego, CA 82544",Delivered
+ORD-2026-1069,Susan Moore,+1-538-460-8434,UltraClean Robotic Vacuum Cleaner,2026-07-10,"4218 Cedar Ln, Los Angeles, CA 35242",Shipped
+ORD-2026-1070,Lisa Moore,+1-980-806-4033,Velo Pro Mechanical Keyboard,2026-06-28,"8033 Washington Blvd, Austin, TX 78765",Delivered
+ORD-2026-1071,Patricia Miller,+1-503-332-6912,Lumena Smart Desk Lamp,2026-07-09,"331 Pine Rd, Chicago, IL 45954",Processing
+ORD-2026-1072,Mary Moore,+1-499-814-3068,Zenith 4K Ultra-HD Webcam,2026-06-14,"300 Sunset Blvd, Phoenix, AZ 71524",Delivered
+ORD-2026-1073,David Garcia,+1-252-358-8827,Apex Ergonomic Mesh Office Chair,2026-09-14,"1170 Park Ave, San Diego, CA 19710",Delivered
+ORD-2026-1074,Nancy Johnson,+1-355-252-5978,Apex Ergonomic Mesh Office Chair,2026-07-02,"2040 Pine Rd, San Antonio, TX 89471",Delivered
+ORD-2026-1075,Karen Davis,+1-994-635-7232,Zenith 4K Ultra-HD Webcam,2026-07-27,"4971 Sunset Blvd, San Antonio, TX 50026",Delivered
+ORD-2026-1076,Mary Martin,+1-957-201-4404,Velo Pro Mechanical Keyboard,2026-07-04,"1430 Maple Rd, Houston, TX 32782",Delivered
+ORD-2026-1077,Jennifer Smith,+1-618-561-8699,UltraClean Robotic Vacuum Cleaner,2026-06-05,"3892 Washington Blvd, Phoenix, AZ 69510",Processing
+ORD-2026-1078,Linda Rodriguez,+1-840-703-4241,PulseFit Fitness Tracker Watch,2026-06-15,"9022 Cedar Ln, Chicago, IL 44816",Delivered
+ORD-2026-1079,John Johnson,+1-369-911-6039,OmniCharge 20000mAh Power Bank,2026-09-04,"9425 Washington Blvd, San Diego, CA 26299",Delivered
+ORD-2026-1080,Elizabeth Gonzalez,+1-478-612-9847,Zenith 4K Ultra-HD Webcam,2026-07-27,"1417 Sunset Blvd, New York, NY 66626",Delivered
+ORD-2026-1081,Karen Rodriguez,+1-226-193-4750,OmniCharge 20000mAh Power Bank,2026-08-15,"439 Washington Blvd, Austin, TX 15273",Delivered
+ORD-2026-1082,Jennifer Thomas,+1-731-767-8245,UltraClean Robotic Vacuum Cleaner,2026-06-24,"9690 Park Ave, San Diego, CA 21959",Delivered
+ORD-2026-1083,Susan Hernandez,+1-528-786-2713,Lumena Smart Desk Lamp,2026-07-13,"6844 Elm St, Phoenix, AZ 96846",Returned
+ORD-2026-1084,Anthony Moore,+1-237-565-2442,HydraTech Smart Water Bottle,2026-07-03,"5396 Oak Ave, San Antonio, TX 77449",Delivered
+ORD-2026-1085,James Moore,+1-673-523-1888,Velo Pro Mechanical Keyboard,2026-08-06,"6027 Sunset Blvd, San Diego, CA 91973",Delivered
+ORD-2026-1086,Mary Miller,+1-473-662-3146,UltraClean Robotic Vacuum Cleaner,2026-07-27,"8041 Oak Ave, New York, NY 92578",Delivered
+ORD-2026-1087,Linda Garcia,+1-518-664-1224,SoundSphere Bluetooth Speaker,2026-07-23,"1627 Cedar Ln, Los Angeles, CA 70482",Returned
+ORD-2026-1088,Christopher Jones,+1-710-833-5781,SoundSphere Bluetooth Speaker,2026-08-30,"4579 Park Ave, San Diego, CA 71894",Shipped
+ORD-2026-1089,Sarah Jones,+1-592-295-9327,Lumena Smart Desk Lamp,2026-09-19,"1243 Washington Blvd, San Antonio, TX 54548",Returned
+ORD-2026-1090,Thomas Rodriguez,+1-202-389-5891,OmniCharge 20000mAh Power Bank,2026-08-14,"8122 Maple Rd, San Diego, CA 80592",Delivered
+ORD-2026-1091,David Moore,+1-981-656-7180,Zenith 4K Ultra-HD Webcam,2026-07-12,"3190 Cedar Ln, Austin, TX 60196",Shipped
+ORD-2026-1092,Matthew Wilson,+1-244-425-8749,PulseFit Fitness Tracker Watch,2026-07-20,"2592 Elm St, New York, NY 26547",Delivered
+ORD-2026-1093,Charles Hernandez,+1-302-995-8213,Apex Ergonomic Mesh Office Chair,2026-08-07,"7586 Main St, Chicago, IL 63736",Cancelled
+ORD-2026-1094,Robert Williams,+1-680-900-5342,HydraTech Smart Water Bottle,2026-08-19,"6612 Oak Ave, Philadelphia, PA 98389",Cancelled
+ORD-2026-1095,Richard Hernandez,+1-841-835-8994,SoundSphere Bluetooth Speaker,2026-06-05,"1221 Cedar Ln, Phoenix, AZ 39817",Delivered
+ORD-2026-1096,Susan Brown,+1-978-748-2646,Zenith 4K Ultra-HD Webcam,2026-06-22,"5006 Main St, New York, NY 52516",Delivered
+ORD-2026-1097,Elizabeth Lopez,+1-583-541-3385,Velo Pro Mechanical Keyboard,2026-08-07,"6851 Sunset Blvd, Chicago, IL 32280",Shipped
+ORD-2026-1098,Karen Gonzalez,+1-834-799-4945,Zenith 4K Ultra-HD Webcam,2026-08-14,"2444 Cedar Ln, San Diego, CA 93611",Shipped
+ORD-2026-1099,William Smith,+1-676-394-9955,Lumena Smart Desk Lamp,2026-06-10,"7337 Lake View Dr, Austin, TX 49210",Delivered
+ORD-2026-1100,Susan Rodriguez,+1-667-965-5949,Velo Pro Mechanical Keyboard,2026-07-20,"8016 Oak Ave, Houston, TX 59986",Delivered
